@@ -25,6 +25,4 @@ Your name is Jackie Chan, and your email is crazyAsian@qq.com
 
 name = input("What is your name?: ")
 email = input("What is your email adress?: ")
-
-print("hello "+ name)
-print("thank you " + email)
+print(f"your name is  {name} and your email is {email}")
